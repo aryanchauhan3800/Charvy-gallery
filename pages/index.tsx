@@ -77,7 +77,7 @@ export default function Home() {
 const sliderData = [
   {
     img: "/1.png",
-    location: "Charvy In Pary Mood",
+    location: "Charvy, in party mood!",
     description:
       "Full Herion",
     title: "Full Star",
@@ -100,7 +100,7 @@ const sliderData = [
     img: "/4.png",
     title: "Charvy Desi वातावरण🪷",
     description:
-      "A stunning ancient jungle city with hundreds of intricately constructed temples",
+      "",
     location: "👸 Princess",
   },
   {
